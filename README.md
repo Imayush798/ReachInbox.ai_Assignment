@@ -1,8 +1,10 @@
 # ReachInbox.AI: React Project
 
 --- Ayush Kumar
+--- ayushsahu798@gmail.com
 
 ## Overview
+The ReachInBox assignment aims to build a tool that parses and manages emails from Google and Outlook accounts, using AI to categorize and respond to emails based on their context. This server-based application is built with React.js, Node.js and Express, leveraging various APIs and AI services.
 
 This project is a React application written in TypeScript using figma file https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=6-19154&mode=design&t=03bJH7Jr6FYF7VSR-0
 and api documentation
