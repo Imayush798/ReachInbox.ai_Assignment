@@ -1,6 +1,6 @@
 # ReachInbox.AI: React Project
 
----
+--- Ayush Kumar
 
 ## Overview
 
@@ -16,7 +16,7 @@ To install and run this project on your local machine, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
+   git clone https://github.com/Imayush798/ReachInbox.ai_Assignment.git
 
    cd into project
 
